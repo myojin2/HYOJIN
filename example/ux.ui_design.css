@@ -114,9 +114,8 @@
 }   
 
 .contents_header a:hover img {
-  transform: scale(1.1);
   transition: transform 1s;
-  filter: brightness(50%);
+  filter: brightness(40%);
 }
 
 .first {
