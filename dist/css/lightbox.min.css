@@ -216,6 +216,21 @@ h8{
    padding: 3.5px 8px;
    margin-right: 10px;
  }
+
+
+h10{
+  display: inline-block;
+   margin-bottom: 20px;
+   position:relative;
+   color: #A435F0;
+   background-color: #F6EBFE;
+   font-size: 13.5px;
+   font-weight: 600;
+   border-radius: 5px;
+   padding: 3.5px 8px;
+   margin-right: 10px;
+ }
+ 
  
  h4{
   display: inline-block;
